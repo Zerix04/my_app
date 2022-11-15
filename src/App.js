@@ -89,7 +89,7 @@ class App extends Component {
           </div>
 
           <div className='col-4 text-center '>
-            {this.state.jumlah}
+            <h3>{this.state.jumlah}</h3>
           </div>
 
           <div className='col-4 text-center'>
